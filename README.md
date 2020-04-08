@@ -9,8 +9,8 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+  <a href="https://www.linkedin.com/in/sipereira/">
+    <img alt="Made by Tiago Pereira" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
