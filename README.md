@@ -68,4 +68,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com 💜 by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com 💜 by Tiago Pereira :wave: [Me encontre no Linkedin!](https://www.linkedin.com/in/sipereira/)
