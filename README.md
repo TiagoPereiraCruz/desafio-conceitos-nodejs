@@ -50,6 +50,18 @@ Para esse desafio temos os seguintes testes:
 
 - **`should not be able to like a repository that does not exist`**: Para que esse teste passe, você deve validar na sua rota de like se o id do repositório enviado pela url existe ou não. Caso não exista, retornar um erro com status `400`.
 
+### Como utilizar
+
+- **1º passo**: Para clonar o repositório, clique no botão "Clone or download" e irá aparecer um menu. Copie a URL que aparece logo abaixo do botão.
+
+- **2º passo**: No seu terminal, navegue até a sua pasta de preferência e rode o comando `git clone {URL_DO_REPOSITORIO}`, isso irá baixar todos os arquivos para a sua máquina. (Lembre-se que você precisa do Git instalado em sua máquina, caso ainda não tenha: https://git-scm.com/)
+
+- **3º passo**: Com seu repositório baixado na sua máquina, execute o comando `yarn` na pasta do projeto clonado para instalar todas as dependências.
+
+- **4º passo**: Para rodar os testes automatizados execute o comando `yarn test` no seu terminal, e ele irá te retornar o resultado dos testes das rotas.
+
+- **5º passo**: Para testar manualmente execute o comando `yarn dev` para rodar o servidor e utilize o Insomnia para testar as rotas (ou Postman, Postwoman).
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
