@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#como-utilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#como-utilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :rocket: Sobre o desafio
@@ -67,10 +66,6 @@ Para esse desafio temos os seguintes testes:
 - **4º passo**: Para rodar os testes automatizados execute o comando `yarn test` no seu terminal, e ele irá te retornar o resultado dos testes das rotas.
 
 - **5º passo**: Para testar manualmente execute o comando `yarn dev` para rodar o servidor e utilize o Insomnia para testar as rotas (ou Postman, Postwoman).
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
